@@ -20,7 +20,7 @@ Welcome to my personal portfolio website! I'm Shubhankar Vyas, a passionate web 
 - **Portfolio:** Projects with descriptions and links.
 - **Contact Form:** Visitors can reach out via a contact form.
 - **Responsive Design:** Optimized for mobile and desktop devices.
-- **Light/Dark Mode:** Toggle for user preference.
+  
 
 ## Technologies Used
 - HTML
@@ -36,6 +36,9 @@ To run the website locally:
 
 ## Usage
 Feel free to customize this website with your own content, projects, and branding. Update the `index.html` file to modify the content and sections according to your preferences.
+
+## Contact Form Integration
+The contact form on this website is integrated with Google Sheets for easy management of submissions. When a visitor submits the form, their message is stored in a Google Sheet, and you receive an email notification.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
