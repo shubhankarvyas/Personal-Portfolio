@@ -15,7 +15,7 @@
  #header {
    width: 100%;
    height: 100vh;
-   background-image: url('images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg');
+   background-image: url('ales-nesetril-Im7lZjxeLhg-unsplash.jpg');
    background-size: cover;
    background-position: center;
  }
@@ -318,7 +318,7 @@
  }
  @media only screen and (max-width:700px){
    #header{
-      background-image: url(images/mobile.jpg);
+      background-image: url(mobile.jpg);
    }
    .header-text{
       margin-top:100px ;
