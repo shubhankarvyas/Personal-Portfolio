@@ -1,47 +1,12 @@
-# My Portfolio Website
+# React + Vite
 
-This is a personal portfolio website showcasing my skills, projects, and contact information.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Currently, two official plugins are available:
 
-## Introduction
-Welcome to my personal portfolio website! I'm Shubhankar Vyas, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. This website serves as a digital resume and portfolio to showcase my skills, experience, and projects.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Features
-- **Introduction:** A brief bio and personal branding.
-- **Sections:** Skills, experience, education, and services.
-- **Portfolio:** Projects with descriptions and links.
-- **Contact Form:** Visitors can reach out via a contact form.
-- **Responsive Design:** Optimized for mobile and desktop devices.
-  
+## Expanding the ESLint configuration
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Font Awesome icons
-- Google Fonts
-
-## Setup
-To run the website locally:
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
-
-## Usage
-Feel free to customize this website with your own content, projects, and branding. Update the `index.html` file to modify the content and sections according to your preferences.
-
-## Contact Form Integration
-The contact form on this website is integrated with Google Sheets for easy management of submissions. When a visitor submits the form, their message is stored in a Google Sheet, and you receive an email notification.
-
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the [GNU General Public License](LICENSE).
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
