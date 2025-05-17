@@ -7,7 +7,7 @@ const Portfolio = () => {
                 <h1 className="sub-title">My Projects</h1>
                 <div className="work-list">
                     <div className="work">
-                        <img src="public/work-1.png" alt="E-commerce Website" />
+                        <img src="/work-1.png" alt="E-commerce Website" />
                         <div className="layer">
                             <h3>E-commerce Website</h3>
                             <p>
@@ -20,7 +20,7 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className="work">
-                        <img src="public/work-2.png" alt="Social Media Platform" />
+                        <img src="/work-2.png" alt="Social Media Platform" />
                         <div className="layer">
                             <h3>Social Media Platform</h3>
                             <p>
@@ -33,7 +33,7 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className="work">
-                        <img src="public/work-3.png" alt="Travel Booking Website" />
+                        <img src="/work-3.png" alt="Travel Booking Website" />
                         <div className="layer">
                             <h3>Travel Booking Website</h3>
                             <p>
