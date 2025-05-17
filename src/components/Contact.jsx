@@ -45,7 +45,7 @@ const Contact = () => {
                         </p>
                         <p>
                             <i className="fa-solid fa-phone"></i>
-                            9479313600
+                            +91 9479313600
                         </p>
                         <div className="social-icons">
                             <a href="https://www.linkedin.com/in/shubhankar-vyas-7b02b4298/">
