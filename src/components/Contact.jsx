@@ -61,7 +61,7 @@ const Contact = () => {
                                 <i className="fa-brands fa-facebook"></i>
                             </a>
                         </div>
-                        <a href="/my-cv.pdf" download className="btn btn2">
+                        <a href="/resume.pdf" download className="btn btn2">
                             Download CV
                         </a>
                     </div>
