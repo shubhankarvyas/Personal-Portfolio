@@ -31,10 +31,10 @@ const About = () => {
                                 Skills
                             </p>
                             <p
-                                className={`tab-links ${activeTab === 'experience' ? 'active-link' : ''}`}
-                                onClick={() => handleTabClick('experience')}
+                                className={`tab-links ${activeTab === 'achivements' ? 'active-link' : ''}`}
+                                onClick={() => handleTabClick('achivements')}
                             >
-                                Experience
+                                achivements
                             </p>
                             <p
                                 className={`tab-links ${activeTab === 'education' ? 'active-link' : ''}`}
@@ -50,7 +50,7 @@ const About = () => {
                                 <li><span>Data Analysis:</span><br /> Currently pursuing a course</li>
                             </ul>
                         </div>
-                        <div className={`tab-contents ${activeTab === 'experience' ? 'active-tab' : ''}`}>
+                        <div className={`tab-contents ${activeTab === 'achivements' ? 'active-tab' : ''}`}>
                             <ul>
                                 <li>
                                     <span>Web Developer (Freelance):</span><br />
