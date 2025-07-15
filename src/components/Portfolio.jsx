@@ -7,12 +7,12 @@ const Portfolio = () => {
                 <h1 className="sub-title">My Projects</h1>
                 <div className="work-list">
                     <div className="work">
-                        <img src="/work-1.png" alt="E-commerce Website" />
                         <div className="layer">
-                            <h3>E-commerce Website</h3>
+                            <h3>AI-Powered Financial Assistant</h3>
                             <p>
-                                A fully functional e-commerce platform where users can browse products,
-                                add them to cart, and proceed to checkout.
+                                Developed a dashboard for stock analytics and AI-driven investment suggestions using Google Gemini.
+                                Deployed on Vercel with Firebase Auth, Firestore, and custom domain setup.
+                                Enabled sentiment analysis and market trend summarization with real-time updates.
                             </p>
                             <a href="#">
                                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
@@ -20,12 +20,11 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className="work">
-                        <img src="/work-2.png" alt="Social Media Platform" />
                         <div className="layer">
-                            <h3>Social Media Platform</h3>
+                            <h3>MedVault – Blockchain Health Records</h3>
                             <p>
-                                A social networking site where users can create profiles, connect with
-                                friends, and share posts, photos, and videos.
+                                Created decentralized record system using Solana wallet auth and IPFS for secure health data sharing.
+                                Enabled permissioned access and audit trails with real-time role-based controls.
                             </p>
                             <a href="#">
                                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
@@ -33,12 +32,11 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className="work">
-                        <img src="/work-3.png" alt="Travel Booking Website" />
                         <div className="layer">
-                            <h3>Travel Booking Website</h3>
+                            <h3>Solar Load Forecasting (CNN-LSTM)</h3>
                             <p>
-                                A travel booking platform where users can search for flights, hotels,
-                                and rental cars based on destination and dates.
+                                Implemented hybrid deep learning model to forecast solar output from time-series datasets.
+                                Improved accuracy using lag correlation and evaluated via RMSE and MAPE.
                             </p>
                             <a href="#">
                                 <i className="fa-solid fa-arrow-up-right-from-square"></i>
