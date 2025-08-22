@@ -8,29 +8,25 @@ const Services = () => {
                 <div className="services-list">
                     <div>
                         <i className="fa-solid fa-code"></i>
-                        <h2>Web Developer</h2>
+                        <h2>Full-Stack Development</h2>
                         <p>
-                            Website Design and Development: Create responsive, visually appealing websites
-                            tailored to client needs using HTML, CSS, JavaScript, and frameworks like React
-                            or Angular.
+                            Building full-stack web applications using React, Node.js, Express, and Firebase.
                         </p>
                         <a href="#">Learn more</a>
                     </div>
                     <div>
-                        <i className="fa-solid fa-crop"></i>
-                        <h2>Data Structures and Algorithms</h2>
+                        <i className="fa-solid fa-cloud-arrow-up"></i>
+                        <h2>Cloud & DevOps</h2>
                         <p>
-                            Algorithm Design and Optimization: Develop efficient algorithms for data
-                            processing, search, sorting, and optimization.
+                            Deploying scalable solutions on Azure and GCP with Docker and GitHub Actions. CI/CD pipelines.
                         </p>
                         <a href="#">Learn more</a>
                     </div>
                     <div>
-                        <i className="fa-solid fa-magnifying-glass-chart"></i>
-                        <h2>Data Analysis</h2>
+                        <i className="fa-solid fa-brain"></i>
+                        <h2>AI & Deep Learning</h2>
                         <p>
-                            Data Visualization: Create insightful visualizations and interactive dashboards
-                            to present data findings in a clear and meaningful way.
+                            Developing AI-based solutions like investment assistants and forecasting models using Python and TensorFlow.
                         </p>
                         <a href="#">Learn more</a>
                     </div>
